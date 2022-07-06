@@ -24,7 +24,7 @@
     <div class="flex items-center lg:items-baseline mb-5 lg:mb-10">
       <h3 class="family-information__subheading">Date:</h3>
       <p class="family-information__text ml-2">
-        September 17, 2022 - Saturday @ 19:90
+        September 17, 2022 - Saturday @ 19:00
       </p>
     </div>
     <div class="flex items-center lg:items-baseline mb-5 lg:mb-10">
